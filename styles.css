@@ -1,0 +1,26 @@
+body {
+  background-color: #snow;
+  font-family: Roboto, Sans-serif;
+  color: #333333;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: "Bruno Ace SC", Sans-serif;
+  font-size: 38px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.legal_text {
+  font-family: "Times New Roman", Serif;
+  text-align: justify;
+  max-width: 800px;
+}
+
+.centered_temp {
+  padding: 200px 0;
+  text-align: center;
+}
