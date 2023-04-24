@@ -1,19 +1,33 @@
 body {
-  background-color: #snow;
-  font-family: Roboto, Sans-serif;
-  color: #333333;
-  font-size: 18px;
+	background-color: white;
+	font-family: Roboto, Sans-serif;
+	color: #333333;
+	font-size: 18px;
+	margin: 0px;
 }
 
 h1 {
-  font-family: K2D, Sans-serif;
-  font-size: 38px;
+    font-family: K2D, Sans-serif;
+    font-size: 38px;
+}
+
+p {
+	line-height: 120%;
+}
+.main_container {
+	width:100%;
+	max-width: 900px;
+	margin: 0px auto;
+
 }
 
 .legal_text {
-  font-family: "Times New Roman", Serif;
-  text-align: justify;
-  max-width: 800px;
+	font-family: "Times New Roman", Serif;
+	width: 90%;
+	max-width: 900px;
+	height: auto;
+	margin-left: 5%;
+	text-align: justify;
 }
 
 .centered_temp {
